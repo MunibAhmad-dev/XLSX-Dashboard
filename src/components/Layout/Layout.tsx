@@ -14,7 +14,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       <div className="flex-1 flex flex-col">
         <header className="bg-white shadow-sm border-b border-gray-200 px-6 py-4">
           <div className="flex justify-between items-center">
-            <h2 className="text-lg font-semibold text-gray-900">Dashboard Pro</h2>
+            <h2 className="text-lg font-semibold text-gray-900">Dashboard</h2>
             <NotificationCenter />
           </div>
         </header>
